@@ -8,7 +8,7 @@ This is a full-stack application built for an interview task.
 
 
 
-## 🚀 Features
+## Features
 - Accepts plain text input
 - Encrypts using custom logic (SARK: `Reddy`)
 - Decrypts the previously encrypted text
